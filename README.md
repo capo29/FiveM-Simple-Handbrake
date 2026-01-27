@@ -16,7 +16,7 @@ The script also makes vehicles roll forward slightly when you exit them in Drive
 
 ## Controls
 
-- Press **F** (or whatever control 76 is mapped to) to toggle between Park and Drive modes
+- Press **SPACEBAR** to toggle between Park and Drive modes
 
 ## Features
 

@@ -1,4 +1,4 @@
-# Handbrake Script
+# Handbrake Script.
 
 Simple handbrake toggle script for FiveM with a basic HUD indicator. Works with InteractSounds for audio.
 

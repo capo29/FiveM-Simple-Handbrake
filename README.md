@@ -1,5 +1,8 @@
 # Handbrake Script.
 
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/731de637-23e9-49dc-a1af-5d42cb0ad3b0" />
+
+
 Simple handbrake toggle script for FiveM with a basic HUD indicator. Works with InteractSounds for audio.
 
 ## What it does
